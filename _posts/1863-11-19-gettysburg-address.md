@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/bus.jpg
 navigation: True
-title: Gettysburg Address
+title: 创建个人网站第一步
 date: 1863-11-19 10:18:00
 tags:
 class: post-template
