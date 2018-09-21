@@ -1,69 +1,67 @@
-<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
-    <link rel="shortcut icon" href="{{ site.url }}{{ site.baseurl }}{{ site.favicon }}" type="image/png" />
-    <link rel="canonical" href="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}" />
-    <meta name="referrer" content="no-referrer-when-downgrade" />
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-    {% if page.content and page.current == 'post' or page.current == 'about' %}
-        {% assign excerpt = page.content | strip_html | truncatewords: 50, "" %}
-     {% endif %} <!--title below is coming from _includes/dynamic_title-->
-    <meta property="og:site_name" content="{{ site.title }}" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-    <meta property="og:description" content="{% if excerpt %}{{ excerpt }}{% elsif page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
-    <meta property="og:url" content="{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}" />
-    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% else %}{{ site.cover }}{% endif %}" />
-    <meta property="article:publisher" content="https://www.facebook.com/{{ site.facebook }}" />{% if excerpt %}
-    <meta property="article:author" content="https://www.facebook.com/{{ site.facebook }}" />
-    <meta property="article:published_time" content="{% if page.date %}{{ page.date | date_to_xmlschema }}{% elsif post.date %}{{ post.date | date_to_xmlschema }}{% endif %}" />
-    <meta property="article:modified_time" content="{% if page.date %}{{ page.date | date_to_xmlschema }}{% elsif post.date %}{{ post.date | date_to_xmlschema }}{% endif %}" />{% endif %}{% if page.tags.size > 0 %}
-    <meta property="article:tag" content="{{ page.tags | first | capitalizeall }}" />{% endif %}
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-    <meta name="twitter:description" content="{% if excerpt %}{{ excerpt }}{% elsif page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
-    <meta name="twitter:url" content="{{ site.url }}{{ site.baseurl }}" />
-    <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% else %}{{ site.cover }}{% endif %}" />
-    <meta name="twitter:label1" content="Written by" />
-    <meta name="twitter:data1" content="{{ site.title }}" />{% if page.tags.size > 0 %}
-    <meta name="twitter:label2" content="Filed under" />
-    <meta name="twitter:data2" content="{{ page.tags | first | capitalizeall }}" />{% endif %}
-    <meta name="twitter:site" content="@{{ site.twitter }}" />
-    <meta name="twitter:creator" content="@{{ site.twitter }}" />{% if excerpt %}
-    <meta property="og:image:width" content="1400" />
-    <meta property="og:image:height" content="933" />{% else %}
-    <meta property="og:image:width" content="2000" />
-    <meta property="og:image:height" content="666" />{% endif %}
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="author" content="leopardpan">
 
-    <script type="application/ld+json">
-{
-    "@context": "https://schema.org",
-    "@type": "Website",
-    "publisher": {
-        "@type": "Organization",
-        "name": "{{ site.title }}",
-        "logo": "{{ site.url }}{{ site.baseurl }}{{ site.logo }}"
-    },
-    "url": "{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}",
-    "image": {
-        "@type": "ImageObject",
-        "url": "{{ site.url }}{{ site.baseurl }}{% if page.cover %}{{ page.cover }}{% else %}{{ site.cover }}{% endif %}",
-        "width": 2000,
-        "height": 666
-    },
-    "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "{{ site.url }}{% if site.baseurl %}{{ site.baseurl }}{% endif %}{{ page.url | remove_first: '/' }}"
-    },
-    "description": "{% if excerpt %}{{ excerpt }}{% elsif page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"
-}
-    </script>
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  
+  <link rel="icon" type="image/png" href="/images/favicon.png" />
+  <link href="/images/favicon.png" rel="shortcut icon" type="image/png">
+  
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 
-    <!-- <script type="text/javascript" src="https://demo.ghost.io/public/ghost-sdk.min.js?v=724281a32e"></script>
-    <script type="text/javascript">
-    ghost.init({
-    	clientId: "ghost-frontend",
-    	clientSecret: "f84a07a72b17"
-    });
-    </script> -->
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  
+  <meta name="google-site-verification" content="1-1ZlHoRvM0T2FqPbW2S-qLgYXN6rsn52kErlMPd_gw" />
 
-    <meta name="generator" content="Jekyll 3.6.2" />
-    <link rel="alternate" type="application/rss+xml" title="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" href="{{ site.baseurl }}feed.xml" />
+<!-- 站点统计 -->
+  <script 
+  async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
+  </script>  
+
+<!-- 百度统计 -->
+  {% if site.baidu.id %}
+  <script>
+      var _hmt = _hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "//hm.baidu.com/hm.js?{{site.baidu.id}}";
+        var s = document.getElementsByTagName("script")[0]; 
+        s.parentNode.insertBefore(hm, s);
+      })();
+  </script>
+  {% endif %}
+
+<!-- google 统计 -->
+  {% if site.ga.id %}
+  <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{site.ga.id}}', '{{site.ga.host}}');
+      ga('send', 'pageview');
+  </script>
+  {% endif %}
+
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-9005224472374751",
+    enable_page_level_ads: true
+  });
+</script>
+
+</head>

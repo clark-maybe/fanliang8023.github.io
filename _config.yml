@@ -1,93 +1,70 @@
-# Jekyll configuration
-markdown: kramdown
-highlighter: rouge
-paginate: 100 # it will paginate after this number
-language: 'en-uk'
+# Basic
+title: 潘柏信
+subtitle: 个人站
+description: 欢迎来到我的个人站~
+# 头像里面的标题
+avatarTitle: leopardpan
+# 头像里面的描述
+avatarDesc: iOS / 机器学习
+url: "http://baixin.io"
 
-# edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+# Comment
+comment:
+    disqus: leopard
+    # uyan: 2143225  # 有言id,登录有言官网申请
 
-# Website info
-title: Ghost
-description: The professional publishing platform
-cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
-production_url: https://jekyller.github.io/jasper2/
-source_url: https://github.com/jekyller/jasper2/
+# Social
+social:
+    weibo: 5366874726 
+    github: leopardpan
+    # twitter: 
+    mail: leopardpan@icloud.com
 
-# Social info
-navigation: True # show the navbar links
-subscribers: True # you need to connect an external service for this to work,
-# if 'True' the submit button is disabled for now, but you can change that
-# by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
-
-# Disqus
-disqus: False
-disqus_shortname: jekyller # replace with your disqus username
+# 百度统计 
+# 使用博客模板请去掉或者更换 id 
+baidu:
+    id: 8ba1c6be0953b6f9c2ba38e57f615421  
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+# 使用博客模板请去掉或者更换 id
+ga:
+    id: UA-84134159-3   
+    host: auto  
 
-# Permalinks
-permalink: /:title
-# permalink: /author/:author
-# permalink: /tag/:tag
 
-# Authors' info in `_data/authors.yml`
-# Tags' info in `_data/tags_info.yml`
+# 《----------------- 上面的信息修改成你自己的 ---------------------------》
+#
+#
+#  _post/ 下的文章更换成你自己的文章
+#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
+#
+#
+# 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
 
-# gems and other configs
-plugins: [jekyll-paginate, jekyll-feed]
 
-feed:
-  path: feed.xml
+permalink: /:year/:month/:title/
+# Format
+highlighter: rouge
 
-# Additional settings available on the front-matter
-# Site logo in the index.html (as in demo.ghost.io)
-# Author's page cover in _layouts/author.html
-# The same for page.html and tag.html layouts
-# Post's page cover as a per-post basis _posts/...
-# Disqus comments as a per-post basis
-# ...
+textColor: #FF0000
 
-# Settings for builing master branch with travis-ci
-# with jekyll-travis
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: clear
 
-# Settings for deploy rake task
-# Username and repo of Github repo, e.g.
-# https://github.com/USERNAME/REPO.git
-# username defaults to ENV['GIT_NAME'] used by Travis
-# repo defaults to USERNAME.github.io
-# Branch defaults to "source" for USERNAME.github.io
-# or "master" otherwise
-safe: False
-lsi: False
-username: jekyller
-repo: jasper2
-branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
-production_url:  https://jekyller.github.io/jasper2/
-source_url:  https://github.com/jekyller/jasper2/
+# The blog button should not be removed.
+blog_button:
+    title: 博客主页
 
-exclude:
-  - assets/css
-  - node_modules
-  - vendor
-  - .travis.yml
-  - Gemfile
-  - Gemfile.lock
-  - GHOST.txt
-  - gulpfile.js
-  - LICENSE
-  - package.json
-  - Rakefile
-  - README.md
-  - script.py
-  - changelog.md
-  - "*.Rmd"
-  - .git*
+# Navigation buttons in the front page.s
+nav:
+    - {title: 所有文章, description: archive, url: '/archive'}   
+    - {title: 标签, description: tags, url: '/tags'}      
+    - {title: 关于我, description: about, url: '/about'}      
+    
+
+# Pagination
+gems: [jekyll-paginate,jekyll-sitemap]
+paginate: 20
+paginate_path: "page/:num/"
+
+
