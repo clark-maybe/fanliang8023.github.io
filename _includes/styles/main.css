@@ -17,17 +17,9 @@ perspective: 900px;
 }
 .ih-item.circle.effect .img {
     z-index: 11;
-    /*-webkit-transition: all 0.5s ease-in-out;*/
-    /*-moz-transition: all 0.5s ease-in-out;*/
-    /*transition: all 0.5s ease-in-out;*/
-    animation: bounceInDown 1s normal;
-}
-
-#animation{
-    -webkit-animation:fadeOut 1s .2s ease both;
-    -moz-animation:fadeOut 1s .2s ease both;}
-    -webkit-animation-name:bounceInDown;
-    -moz-animation-name:bounceInDown;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
 }
 
 .ih-item.circle.effect .info {
