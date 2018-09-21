@@ -1,11 +1,11 @@
 # Basic
 title: Clark
-subtitle: 我的个人站点
-description: 欢迎来到我的个人站~
+subtitle: 这里有技术也有感悟
+description: 找寻人生的意义
 # 头像里面的标题
-avatarTitle: webSite
+avatarTitle: React工程师
 # 头像里面的描述
-avatarDesc: web前端
+avatarDesc: React工程师
 url: "http://fanliang.githubio"
 
 # Comment
@@ -15,10 +15,10 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: 空
+    github: 空
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 15702455610@163.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
