@@ -14,12 +14,94 @@ tag: 技术分享
 
 ## 一、利用ES6 Set去重（ES6中最常用）：
 
-> 　 function unique(){
-> 　  return Array.form(new Set(arr))
-> 　  }
-> 　  let arr = [11,23,11,52,532,64,546];
-> 　  console.log(unique(arr))
-> 　  //[11,23,52,532,64,546];
+```
+function
+ unique
+(
+arr
+)
+
+{
+
+return
+
+Array
+.
+from
+(
+new
+
+Set
+(
+arr
+))
+}
+var
+ arr
+=
+
+[
+1
+,
+1
+,
+'true'
+,
+'true'
+,
+true
+,
+true
+,
+15
+,
+15
+,
+false
+,
+false
+,
+
+undefined
+,
+undefined
+,
+
+null
+,
+null
+,
+
+NaN
+,
+
+NaN
+,
+'NaN'
+,
+
+0
+,
+
+0
+,
+
+'a'
+,
+
+'a'
+,{},{}];
+console
+.
+log
+(
+unique
+(
+arr
+))
+
+//[1, "true", true, 15, false, undefined, null, NaN, "NaN", 0, "a", {}, {}]
+```
 
 不考虑兼容性，这种去重的方法代码最少。这种方法还无法去掉“{}”空对象，后面的高阶方法会添加去掉重复“{}”的方法。
 
