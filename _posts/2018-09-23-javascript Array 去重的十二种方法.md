@@ -67,7 +67,7 @@ console.log(unique(arr))
 
 新建一个空的结果数组，for 循环原数组，判断结果数组是否存在当前元素，如果有相同的值则跳过，不相同则push进数组。
 
-## 利用sort()
+## 四、利用sort()
 
 ```
 function unique(arr) {
@@ -154,7 +154,7 @@ function unique(arr) {
 
 利用hasOwnProperty 判断是否存在对象属性
 
-## 利用filter
+## 八、利用filter
 
 ```
 function unique(arr) {
@@ -195,7 +195,7 @@ console.log(unique(arr))
 //[1, "a", "true", true, 15, false, 1, {…}, null, NaN, NaN, "NaN", 0, "a", {…}, undefined]
 ```
 
-## 利用Map数据结构去重
+## 十、利用Map数据结构去重
 
 ```
 function arrayNonRepeatfy(arr) {
@@ -228,7 +228,7 @@ console.log(unique(arr));
 // [1, "true", true, 15, false, undefined, null, NaN, "NaN", 0, "a", {…}, {…}]
 ```
 
-## [...new Set(arr)]
+## 十二、[...new Set(arr)]
 
 ```
 [...new Set(arr)]
