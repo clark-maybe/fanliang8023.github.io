@@ -25,5 +25,24 @@ tag: 技术分享
 
 ## 二、利用for嵌套for，然后splice去重（ES5中最常用）
 
+> 　｜－－ function unique(){
+> 　｜－－ for(let i = 0; i<arr.length; i++){
+> 　｜－－ for(let j = i+1; j<arr.length; j++){
+> 　｜－－ if(arr[i] == arr[j]){ //第一个等于第二个， splice方法删除第二个
+> 　｜－－ arr.splice(j,1);
+> 　｜－－ j--;
+> 　｜－－ }
+> 　｜－－ }
+> 　｜－－ }
+> 　｜－－ return arr;
+> 　｜－－ }
+> 　｜－－ let arr = [12,32,42,53,123,12,42,123];
+> 　｜－－ console.log(unique(arr));
+
+双层循环，外层循环元素，内层循环时比较值。值相同时，则删去这个值。
+
+## 三、利用indexOf去重
+
+
 
 　
