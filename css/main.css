@@ -1083,7 +1083,8 @@ input[type="tel"]:-ms-input-placeholder {
   .panel-cover__description {
     display: block;
     max-width: 600px;
-    margin: 0 auto; 
+    /*margin: 0 auto;*/
+    margin-left: 14px;
   }
 
   .panel-cover__divider--secondary {
