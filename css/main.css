@@ -540,7 +540,9 @@ img::-moz-selection {
     margin-bottom: .2em; }
 
   .panel-cover__description {
-    margin: 0 30px; }
+    margin: 0 30px;
+    margin-left: 14px;
+  }
 
   .panel-cover__divider {
     width: 50%;
@@ -1083,8 +1085,7 @@ input[type="tel"]:-ms-input-placeholder {
   .panel-cover__description {
     display: block;
     max-width: 600px;
-    /*margin: 0 auto;*/
-    margin-left: 14px;
+    margin: 0 auto;
   }
 
   .panel-cover__divider--secondary {
