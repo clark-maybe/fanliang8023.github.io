@@ -841,7 +841,7 @@ img::-moz-selection {
     -4px -4px 4px #c9e1f6, 
     4px -4px 4px #c9e1f6,
     -4px 4px 4px #c9e1f6;
-    background-color: rgba(0, 148, 200, 0.22);
+    /*background-color: rgba(0, 148, 200, 0.22);*/
     /*font-weight: bold;*/
     -webkit-animation:pulse 1s .2s ease both;
     -moz-animation:pulse 1s .2s ease both;
