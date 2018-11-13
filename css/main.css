@@ -816,15 +816,15 @@ img::-moz-selection {
 
     -moz-box-shadow:4px 4px 4px #efefef, 
     -4px -4px 4px #efefef, 
-    4px -4px 4px #191919,
+    4px -4px 4px #efefef,
     -4px 4px 4px #efefef; 
     -webkit-box-shadow:4px 4px 4px #efefef, 
     -4px -4px 4px #efefef, 
-    4px -4px 4px #191919,
+    4px -4px 4px #efefef,
     -4px 4px 4px #efefef; 
     box-shadow:4px 4px 4px #efefef, 
     -4px -4px 4px #efefef, 
-    4px -4px 4px #191919,
+    4px -4px 4px #efefef,
     -4px 4px 4px #efefef;
   }
   .post-list li:hover {
