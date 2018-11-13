@@ -831,15 +831,15 @@ img::-moz-selection {
     /*transform:scale(1.01,1.01); */
     -moz-box-shadow:4px 4px 4px #c9e1f6, 
     -4px -4px 4px #c9e1f6, 
-    4px -4px 4px #c9e1f6, 
+    4px -4px 4px #191919,
     -4px 4px 4px #c9e1f6; 
     -webkit-box-shadow:4px 4px 4px #c9e1f6, 
     -4px -4px 4px #c9e1f6, 
-    4px -4px 4px #c9e1f6, 
+    4px -4px 4px #191919,
     -4px 4px 4px #c9e1f6; 
     box-shadow:4px 4px 4px #c9e1f6, 
     -4px -4px 4px #c9e1f6, 
-    4px -4px 4px #c9e1f6, 
+    4px -4px 4px #191919,
     -4px 4px 4px #c9e1f6;
     /*background-color: #F5FFFA;*/
   }
