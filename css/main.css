@@ -842,6 +842,7 @@ img::-moz-selection {
     4px -4px 4px #c9e1f6,
     -4px 4px 4px #c9e1f6;
     /*background-color: #F5FFFA;*/
+    font-weight: bold;
   }
 
   .post-list li:last-child hr {
