@@ -842,19 +842,19 @@ img::-moz-selection {
     4px -4px 4px #c9e1f6,
     -4px 4px 4px #c9e1f6;
     /*background-color: #F5FFFA;*/
-    -webkit-animation:shake 1s .2s ease both;
-    -moz-animation:shake 1s .2s ease both;
+    -webkit-animation:pulse 1s .2s ease both;
+    -moz-animation:pulse 1s .2s ease both;
   }
-
-@-webkit-keyframes shake{
-  0%,100%{-webkit-transform:translateX(0);}
-  10%,30%,50%,70%, 90%{-webkit-transform:translateX(-10px);}
-  20%,40%,60%,80%{-webkit-transform:translateX(10px);}
+  
+@-webkit-keyframes pulse{
+  0%{-webkit-transform:scale(1)}
+  50%{-webkit-transform:scale(1.1)}
+  100%{-webkit-transform:scale(1)}
 }
-@-moz-keyframes shake{
-  0%,100%{-moz-transform:translateX(0);}
-  10%,30%,50%,70%, 90%{-moz-transform:translateX(-10px);}
-  20%,40%,60%,80%{-moz-transform:translateX(10px);}
+@-moz-keyframes pulse{
+  0%{-moz-transform:scale(1)}
+  50%{-moz-transform:scale(1.1)}
+  100%{-moz-transform:scale(1)}
 }
 
   .post-list li:last-child hr {
