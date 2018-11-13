@@ -816,30 +816,30 @@ img::-moz-selection {
 
     -moz-box-shadow:4px 4px 4px #efefef, 
     -4px -4px 4px #efefef, 
-    4px -4px 4px #efefef, 
+    4px -4px 4px #191919,
     -4px 4px 4px #efefef; 
     -webkit-box-shadow:4px 4px 4px #efefef, 
     -4px -4px 4px #efefef, 
-    4px -4px 4px #efefef, 
+    4px -4px 4px #191919,
     -4px 4px 4px #efefef; 
     box-shadow:4px 4px 4px #efefef, 
     -4px -4px 4px #efefef, 
-    4px -4px 4px #efefef, 
+    4px -4px 4px #191919,
     -4px 4px 4px #efefef;
   }
   .post-list li:hover {
     /*transform:scale(1.01,1.01); */
     -moz-box-shadow:4px 4px 4px #c9e1f6, 
     -4px -4px 4px #c9e1f6, 
-    4px -4px 4px #191919,
+    4px -4px 4px #c9e1f6,
     -4px 4px 4px #c9e1f6; 
     -webkit-box-shadow:4px 4px 4px #c9e1f6, 
     -4px -4px 4px #c9e1f6, 
-    4px -4px 4px #191919,
+    4px -4px 4px #c9e1f6,
     -4px 4px 4px #c9e1f6; 
     box-shadow:4px 4px 4px #c9e1f6, 
     -4px -4px 4px #c9e1f6, 
-    4px -4px 4px #191919,
+    4px -4px 4px #c9e1f6,
     -4px 4px 4px #c9e1f6;
     /*background-color: #F5FFFA;*/
   }
