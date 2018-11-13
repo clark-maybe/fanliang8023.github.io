@@ -845,7 +845,7 @@ img::-moz-selection {
     -webkit-animation:pulse 1s .2s ease both;
     -moz-animation:pulse 1s .2s ease both;
   }
-  
+
 @-webkit-keyframes pulse{
   0%{-webkit-transform:scale(1)}
   50%{-webkit-transform:scale(1.1)}
