@@ -14,41 +14,34 @@ tag: 技术分享
     charCodeAt() 方法返回一个整数，代表指定位置字符的Unicode编码.
     index将被处理字符的从零开始计数的编号，有效值为0到字符串长度减1的数字。
 
-    ```
      var str = 'ABC';
      console.log(str.charCodeAt(0))
      //65
-    ```
 
 ## 二、formCharCode(code1,code2)
 
     formCharCode() 方法从一些Unicode字符串中返回一个字符串，如果没有参数，结果为空字符串.
+    
 
-    ```
     String.formCharCode(65,66,112);
     //ABp
-    ```
 
 ## 三、charAt(index)
 
     charAt() 方法返回指定索引位置的字符，如果超出有效范围的索引值返回空字符串
 
-   ```
     var str = 'ABC';
     str.charAt(1);
     //B
-   ```
 
 ## 四、slice(start，end)
 
     slice() 方法返回字符串的片段 start为负，将它作为length+start处理，此处length为字符串的长度
     如果end为负，将它作为length+end处理，此处length为字符串长度
 
-    ```
     var str = 'ABCDEFG'
     str.slice(2,4);
     //CD
-    ```
 
 ## 五、substring(start,end)
 
@@ -130,4 +123,4 @@ tag: 技术分享
 在文章的结尾，我要说一句...
 
 
-##鑫哥牛逼！
+**鑫哥牛逼！**
