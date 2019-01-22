@@ -94,13 +94,14 @@ tag: 技术分享
     str.concat('ABCDEF','ABC');
     //ABCDEFABCDEFABC
 
-## 十一、reverse()
+## 十一、split(separator,limit)
 
-   reverse() 方法用于颠倒数组中元素的顺序。返回的是颠倒后的数组，会改变原数组。
+    separator字符串或 正则表达式 对象，它标识了分隔字符串时使用的是一个还是多个字符。如果忽略该选项，返回包含整个字符串的单一元素数组。 
+    limit该值用来限制返回数组中的元素个数
 
-    var arr = [2,3,4];
-    console.log(arr.reverse()); //[4, 3, 2]
-    console.log(arr);  //[4, 3, 2]
+    var str = "AA BB CC DD EE FF"; 
+    alert(str.split(" "，3));
+    //AA,BB,CC
 
 ## 十二、toLowerCase()
 
