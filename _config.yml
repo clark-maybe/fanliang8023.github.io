@@ -99,16 +99,19 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "知乎·BY",
+        title: "知乎·",
         href: "http://zhihu.com"
     },{
-        title: "简书·BY",
+        title: "简书·",
         href: "http://www.jianshu.com"
     },{
         title: "React",
         href: "https://reactjs.org/"
     },{
-        title: "node",
+        title: "Node",
         href: "https://nodejs.org/zh-cn/"
+    },{
+      title: "阮一峰",
+      href: "http://www.ruanyifeng.com/home.html"
     }
 ]
