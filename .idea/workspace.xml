@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d16a7074-f6ab-4fd4-90e0-d50101a9323d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="d16a7074-f6ab-4fd4-90e0-d50101a9323d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,11 +14,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-03-19-flex通俗解析.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-03-22-关于React生命周期的那些事儿.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="415">
-                <caret line="418" column="40" selection-start-line="418" selection-start-column="40" selection-end-line="418" selection-end-column="40" />
+              <first_editor relative-caret-position="325">
+                <caret line="477" lean-forward="true" selection-start-line="477" selection-end-line="477" />
+                <folding>
+                  <element signature="e#0#41#0" expanded="true" />
+                  <element signature="e#0#41#0" expanded="true" />
+                  <element signature="e#0#26#0" expanded="true" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -53,6 +55,7 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2019-03-19-年后工作一段时间的收获与感悟.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-19-flex通俗解析.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-03-22-关于React生命周期的那些事儿.md" />
       </list>
     </option>
   </component>
@@ -70,7 +73,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -87,6 +89,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -132,17 +135,18 @@
       <workItem from="1549961178097" duration="200000" />
       <workItem from="1552975756043" duration="1178000" />
       <workItem from="1553235215058" duration="116000" />
+      <workItem from="1553236495299" duration="92000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10861000" />
+    <option name="totallyTimeSpent" value="10953000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16649105" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16649105" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Grunt " order="3" side_tool="true" />
@@ -324,8 +328,23 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-19-flex通俗解析.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="415">
-            <caret line="418" column="40" selection-start-line="418" selection-start-column="40" selection-end-line="418" selection-end-column="40" />
+          <first_editor relative-caret-position="130">
+            <caret line="407" lean-forward="true" selection-start-line="407" selection-end-line="407" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-22-关于React生命周期的那些事儿.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="325">
+            <caret line="477" lean-forward="true" selection-start-line="477" selection-end-line="477" />
+            <folding>
+              <element signature="e#0#41#0" expanded="true" />
+              <element signature="e#0#41#0" expanded="true" />
+              <element signature="e#0#26#0" expanded="true" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
