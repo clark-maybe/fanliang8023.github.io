@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d16a7074-f6ab-4fd4-90e0-d50101a9323d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2019-03-29-面试题复习大纲.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-29-面试题复习大纲.md" afterDir="false" />
-    </list>
+    <list default="true" id="d16a7074-f6ab-4fd4-90e0-d50101a9323d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -31,8 +29,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-03-29-面试题复习大纲.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="585">
-                <caret line="91" column="14" selection-start-line="91" selection-start-column="14" selection-end-line="91" selection-end-column="14" />
+              <first_editor relative-caret-position="195">
+                <caret line="76" column="21" lean-forward="true" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
               </first_editor>
               <second_editor />
             </state>
@@ -46,6 +44,7 @@
       <find>.post-preview&gt;.post-meta</find>
       <find>.post-content-preview</find>
       <find>href=</find>
+      <find>##</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -147,12 +146,12 @@
       <workItem from="1553235215058" duration="116000" />
       <workItem from="1553236495299" duration="92000" />
       <workItem from="1553823935996" duration="363000" />
-      <workItem from="1553824449194" duration="259000" />
+      <workItem from="1553824449194" duration="317000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11575000" />
+    <option name="totallyTimeSpent" value="11633000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -360,8 +359,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-29-面试题复习大纲.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="585">
-            <caret line="91" column="14" selection-start-line="91" selection-start-column="14" selection-end-line="91" selection-end-column="14" />
+          <first_editor relative-caret-position="195">
+            <caret line="76" column="21" lean-forward="true" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
           </first_editor>
           <second_editor />
         </state>
