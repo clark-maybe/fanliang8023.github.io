@@ -13,17 +13,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-03-22-关于React生命周期的那些事儿.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="325">
-                <caret line="477" lean-forward="true" selection-start-line="477" selection-end-line="477" />
-                <folding>
-                  <element signature="e#0#41#0" expanded="true" />
-                  <element signature="e#0#41#0" expanded="true" />
-                  <element signature="e#0#26#0" expanded="true" />
-                </folding>
+              <first_editor relative-caret-position="273">
+                <caret line="475" lean-forward="true" selection-start-line="475" selection-end-line="475" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-03-29-面试题复习大纲.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="247">
+                <caret line="76" column="16" lean-forward="true" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -56,6 +63,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-03-19-年后工作一段时间的收获与感悟.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-19-flex通俗解析.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-22-关于React生命周期的那些事儿.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-03-29-面试题复习大纲.md" />
       </list>
     </option>
   </component>
@@ -73,6 +81,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -89,7 +98,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -136,17 +144,18 @@
       <workItem from="1552975756043" duration="1178000" />
       <workItem from="1553235215058" duration="116000" />
       <workItem from="1553236495299" duration="92000" />
+      <workItem from="1553823935996" duration="363000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10953000" />
+    <option name="totallyTimeSpent" value="11316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16649105" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16649105" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Grunt " order="3" side_tool="true" />
@@ -338,13 +347,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-22-关于React生命周期的那些事儿.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="325">
-            <caret line="477" lean-forward="true" selection-start-line="477" selection-end-line="477" />
-            <folding>
-              <element signature="e#0#41#0" expanded="true" />
-              <element signature="e#0#41#0" expanded="true" />
-              <element signature="e#0#26#0" expanded="true" />
-            </folding>
+          <first_editor relative-caret-position="273">
+            <caret line="475" lean-forward="true" selection-start-line="475" selection-end-line="475" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-29-面试题复习大纲.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="247">
+            <caret line="76" column="16" lean-forward="true" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
