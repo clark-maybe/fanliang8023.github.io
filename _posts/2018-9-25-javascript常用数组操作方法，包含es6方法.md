@@ -4,6 +4,9 @@ title: "javascript常用数组操作方法,包含es6方法"
 date: 2018-09-25
 description: "javascript常用数组操作方法,包含es6方法"
 tag: 技术分享
+
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
 ---   
 
     前端程序员在日常工作中总是需要跟数组打交道，如何将数组处理成自己想要的样子，就需要对数组的操作方法烂熟于心，这篇分享总结了
