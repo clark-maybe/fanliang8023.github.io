@@ -113,5 +113,9 @@ friends: [
     },{
       title: "阮一峰",
       href: "http://www.ruanyifeng.com/home.html"
+    },
+    {
+      title: "996.ICU",
+      href: "https://github.com/996icu/996.ICU"
     }
 ]
