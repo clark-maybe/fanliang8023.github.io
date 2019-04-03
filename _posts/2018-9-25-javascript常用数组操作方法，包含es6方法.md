@@ -5,7 +5,6 @@ date: 2018-09-25
 description: "javascript常用数组操作方法,包含es6方法"
 tag: 技术分享
 
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 ---   
 

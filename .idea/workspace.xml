@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d16a7074-f6ab-4fd4-90e0-d50101a9323d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-08-25-HEXO搭建个人博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-08-25-HEXO搭建个人博客.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-11-13-记忆化斐波那契函数JS实战.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-13-记忆化斐波那契函数JS实战.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-11-14-数组的空位填充.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-14-数组的空位填充.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-11-15-优先队列.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-15-优先队列.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-9-21-中秋之前的.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-9-21-中秋之前的.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-9-25-javascript常用数组操作方法，包含es6方法.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-9-25-javascript常用数组操作方法，包含es6方法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-9-25-尤瓦尔·赫拉利简史三部曲.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-9-25-尤瓦尔·赫拉利简史三部曲.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,11 +21,122 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-03-22-关于React生命周期的那些事儿.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="779">
+                <caret line="508" selection-start-line="508" selection-end-line="508" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2276">
-              <caret line="109" column="7" lean-forward="true" selection-start-line="109" selection-start-column="7" selection-end-line="109" selection-end-column="7" />
+        <entry file="file://$PROJECT_DIR$/_posts/2019-03-29-面试题复习大纲.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="663">
+                <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-11-14-数组的空位填充.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="182">
+                <caret line="7" selection-start-line="7" selection-end-line="7" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-11-15-优先队列.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="182">
+                <caret line="7" selection-start-line="7" selection-end-line="7" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-12-27-JS基础知识巩固整理.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="779">
+                <caret line="70" selection-start-line="70" selection-end-line="70" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-1-22-javascript常用string操作方法.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="779">
+                <caret line="129" selection-start-line="129" selection-end-line="129" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-03-19-flex通俗解析.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="753">
+                <caret line="431" selection-start-line="431" selection-end-line="431" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-11-13-记忆化斐波那契函数JS实战.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="182">
+                <caret line="7" selection-start-line="7" selection-end-line="7" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-11-02-React生命周期概述.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="727">
+                <caret line="37" selection-start-line="37" selection-end-line="37" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-10-23-2017年十大web黑客技术榜单.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="779">
+                <caret line="74" selection-start-line="74" selection-end-line="74" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -53,18 +170,18 @@
         <option value="$PROJECT_DIR$/_posts/2019-03-19-flex通俗解析.md" />
         <option value="$PROJECT_DIR$/_posts/2019-1-22-javascript常用string操作方法.md" />
         <option value="$PROJECT_DIR$/_posts/2018-12-27-JS基础知识巩固整理.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-11-15-优先队列.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-11-14-数组的空位填充.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-11-13-记忆化斐波那契函数JS实战.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-02-React生命周期概述.md" />
         <option value="$PROJECT_DIR$/_posts/2018-10-23-2017年十大web黑客技术榜单.md" />
         <option value="$PROJECT_DIR$/_posts/2018-09-23-javascript Array 去重的十二种方法.md" />
         <option value="$PROJECT_DIR$/_posts/2018-9-26-关于思考.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-9-25-尤瓦尔·赫拉利简史三部曲.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-9-25-javascript常用数组操作方法，包含es6方法.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-9-21-中秋之前的.md" />
-        <option value="$PROJECT_DIR$/_posts/2015-08-25-HEXO搭建个人博客.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_posts/2015-08-25-HEXO搭建个人博客.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-9-21-中秋之前的.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-9-25-javascript常用数组操作方法，包含es6方法.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-9-25-尤瓦尔·赫拉利简史三部曲.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-11-13-记忆化斐波那契函数JS实战.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-11-14-数组的空位填充.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-11-15-优先队列.md" />
       </list>
     </option>
   </component>
@@ -82,7 +199,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -90,10 +206,16 @@
               <item name="fanliang8023.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="fanliang8023.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="fanliang8023.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fanliang8023.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,11 +267,12 @@
       <workItem from="1553848401980" duration="105000" />
       <workItem from="1554270457850" duration="158000" />
       <workItem from="1554270969860" duration="106000" />
+      <workItem from="1554271190422" duration="52000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12002000" />
+    <option name="totallyTimeSpent" value="12054000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -317,106 +440,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-03-29-面试题复习大纲.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="663">
-            <caret line="97" selection-start-line="97" selection-end-line="97" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-03-22-关于React生命周期的那些事儿.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="779">
-            <caret line="508" selection-start-line="508" selection-end-line="508" />
-            <folding>
-              <element signature="e#0#41#0" expanded="true" />
-              <element signature="e#0#41#0" expanded="true" />
-              <element signature="e#0#26#0" expanded="true" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-03-19-flex通俗解析.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="753">
-            <caret line="431" selection-start-line="431" selection-end-line="431" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-1-22-javascript常用string操作方法.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="779">
-            <caret line="129" selection-start-line="129" selection-end-line="129" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-12-27-JS基础知识巩固整理.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="779">
-            <caret line="70" selection-start-line="70" selection-end-line="70" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-15-优先队列.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="208">
-            <caret line="8" selection-start-line="8" selection-end-line="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-14-数组的空位填充.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret line="8" selection-start-line="8" selection-end-line="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-13-记忆化斐波那契函数JS实战.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="208">
-            <caret line="8" selection-start-line="8" selection-end-line="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-09-23-javascript Array 去重的十二种方法.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="6162">
-            <caret line="237" selection-start-line="237" selection-end-line="237" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="821">
+          <caret line="109" column="7" selection-start-line="109" selection-start-column="7" selection-end-line="109" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-08-25-HEXO搭建个人博客.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="208">
-            <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <first_editor relative-caret-position="156">
+            <caret line="6" selection-start-line="6" selection-end-line="6" />
           </first_editor>
           <second_editor />
         </state>
@@ -425,8 +463,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-9-21-中秋之前的.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="208">
-            <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <first_editor relative-caret-position="182">
+            <caret line="7" selection-start-line="7" selection-end-line="7" />
           </first_editor>
           <second_editor />
         </state>
@@ -435,8 +473,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-9-25-javascript常用数组操作方法，包含es6方法.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="208">
-            <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <first_editor relative-caret-position="182">
+            <caret line="7" selection-start-line="7" selection-end-line="7" />
           </first_editor>
           <second_editor />
         </state>
@@ -445,8 +483,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-9-25-尤瓦尔·赫拉利简史三部曲.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="208">
-            <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <first_editor relative-caret-position="182">
+            <caret line="7" selection-start-line="7" selection-end-line="7" />
           </first_editor>
           <second_editor />
         </state>
@@ -457,6 +495,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="753">
             <caret line="53" selection-start-line="53" selection-end-line="53" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-09-23-javascript Array 去重的十二种方法.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="663">
+            <caret line="237" selection-start-line="237" selection-end-line="237" />
           </first_editor>
           <second_editor />
         </state>
@@ -482,13 +530,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CNAME">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-13-记忆化斐波那契函数JS实战.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="182">
+            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2276">
-          <caret line="109" column="7" lean-forward="true" selection-start-line="109" selection-start-column="7" selection-end-line="109" selection-end-column="7" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-14-数组的空位填充.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="182">
+            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-15-优先队列.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="182">
+            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-27-JS基础知识巩固整理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="779">
+            <caret line="70" selection-start-line="70" selection-end-line="70" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-1-22-javascript常用string操作方法.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="779">
+            <caret line="129" selection-start-line="129" selection-end-line="129" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-19-flex通俗解析.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="753">
+            <caret line="431" selection-start-line="431" selection-end-line="431" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-22-关于React生命周期的那些事儿.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="779">
+            <caret line="508" selection-start-line="508" selection-end-line="508" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-29-面试题复习大纲.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="663">
+            <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
