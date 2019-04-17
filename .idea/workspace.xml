@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d16a7074-f6ab-4fd4-90e0-d50101a9323d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-13-面试题综合解析-针对上一篇的问题做解答（二）.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-04-17-HTTPS工作原理.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-04-17-HTTPS工作原理.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,9 +19,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-17-HTTPS工作原理.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="620">
-                <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="155">
+                <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -90,7 +90,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,6 +106,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,12 +165,13 @@
       <workItem from="1555325733621" duration="184000" />
       <workItem from="1555326026730" duration="17000" />
       <workItem from="1555326669557" duration="124000" />
-      <workItem from="1555500869651" duration="719000" />
+      <workItem from="1555500869651" duration="862000" />
+      <workItem from="1555502023056" duration="67000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20463000" />
+    <option name="totallyTimeSpent" value="20673000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -511,16 +512,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-04-13-面试题综合解析-针对上一篇的问题做解答（二）.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="279">
-            <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-13-面试题综合解析-针对上一篇的问题做解答（二）.md" />
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -530,9 +522,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-17-HTTPS工作原理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="620">
-            <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="155">
+            <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>
