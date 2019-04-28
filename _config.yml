@@ -98,24 +98,28 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "知乎·",
-        href: "http://zhihu.com"
-    },{
-        title: "简书·",
-        href: "http://www.jianshu.com"
-    },{
-        title: "React",
-        href: "https://reactjs.org/"
-    },{
-        title: "Node",
-        href: "https://nodejs.org/zh-cn/"
-    },{
-      title: "阮一峰",
-      href: "http://www.ruanyifeng.com/home.html"
-    },
-    {
-      title: "996.ICU",
-      href: "https://github.com/996icu/996.ICU"
-    }
+{
+  title: "Guo Fool's blog",
+  href: "https://guoyaoleigg.github.io/"
+},
+{
+  title: "知乎·",
+  href: "http://zhihu.com"
+},{
+  title: "简书·",
+  href: "http://www.jianshu.com"
+},{
+  title: "React",
+  href: "https://reactjs.org/"
+},{
+  title: "Node",
+  href: "https://nodejs.org/zh-cn/"
+},{
+  title: "阮一峰",
+  href: "http://www.ruanyifeng.com/home.html"
+},
+{
+  title: "996.ICU",
+  href: "https://github.com/996icu/996.ICU"
+}
 ]
