@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d16a7074-f6ab-4fd4-90e0-d50101a9323d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-17-HTTPS工作原理.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-04-17-HTTPS工作原理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,13 +16,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-04-17-HTTPS工作原理.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="155">
-                <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="531">
+              <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
             </state>
           </provider>
         </entry>
@@ -61,7 +57,6 @@
         <option value="$PROJECT_DIR$/_posts/2018-10-23-2017年十大web黑客技术榜单.md" />
         <option value="$PROJECT_DIR$/_posts/2018-09-23-javascript Array 去重的十二种方法.md" />
         <option value="$PROJECT_DIR$/_posts/2018-9-26-关于思考.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2015-08-25-HEXO搭建个人博客.md" />
         <option value="$PROJECT_DIR$/_posts/2018-9-21-中秋之前的.md" />
         <option value="$PROJECT_DIR$/_posts/2018-9-25-javascript常用数组操作方法，包含es6方法.md" />
@@ -73,6 +68,8 @@
         <option value="$PROJECT_DIR$/_posts/2019-04-12-面试题综合解析-针对上一篇的问题做解答（一）.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-13-面试题综合解析-针对上一篇的问题做解答（二）.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-17-HTTPS工作原理.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_layouts/page.html" />
       </list>
     </option>
   </component>
@@ -167,15 +164,15 @@
       <workItem from="1555326669557" duration="124000" />
       <workItem from="1555500869651" duration="862000" />
       <workItem from="1555502023056" duration="67000" />
+      <workItem from="1556429527259" duration="263000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20673000" />
+    <option name="totallyTimeSpent" value="20936000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16649105" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -226,13 +223,6 @@
     <entry file="file://$PROJECT_DIR$/img/post-bg-desk.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -265,9 +255,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pwa/manifest.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -513,20 +500,30 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-13-面试题综合解析-针对上一篇的问题做解答（二）.md" />
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-17-HTTPS工作原理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="155">
-            <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <first_editor relative-caret-position="248">
+            <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
         </state>
       </provider>
     </entry>
