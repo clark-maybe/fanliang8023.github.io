@@ -40,6 +40,7 @@
   display: block;
   border-radius: 5px;
   margin-bottom: 20px;
+  cursor: pointer;
 }
 .sidebar-container .short-about p {
   margin-top: 0px;
