@@ -17,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-17-寒冬求职季之你必须要懂的JS原理（二）.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="190">
-                <caret line="1571" column="1" lean-forward="true" selection-start-line="1571" selection-start-column="1" selection-end-line="1571" selection-end-column="1" />
+              <first_editor relative-caret-position="376">
+                <caret line="1577" lean-forward="true" selection-start-line="1577" selection-end-line="1577" />
               </first_editor>
               <second_editor />
             </state>
@@ -42,7 +42,6 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>.post-preview&gt;.post-meta</find>
-      <find>.post-content-preview</find>
       <find>href=</find>
       <find>##</find>
       <find>list-inline</find>
@@ -51,6 +50,7 @@
       <find>.sidebar-container .short-about img</find>
       <find>.next</find>
       <find>post-title</find>
+      <find>.post-content-preview</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -101,7 +101,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="2384" />
     <option name="y" value="51" />
     <option name="width" value="1168" />
@@ -115,6 +115,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,7 +127,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,11 +193,12 @@
       <workItem from="1556587359059" duration="19000" />
       <workItem from="1557023096692" duration="48000" />
       <workItem from="1557192997932" duration="143000" />
+      <workItem from="1557193460467" duration="715000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26697000" />
+    <option name="totallyTimeSpent" value="27412000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -566,8 +567,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-17-寒冬求职季之你必须要懂的JS原理（二）.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="190">
-            <caret line="1571" column="1" lean-forward="true" selection-start-line="1571" selection-start-column="1" selection-end-line="1571" selection-end-column="1" />
+          <first_editor relative-caret-position="376">
+            <caret line="1577" lean-forward="true" selection-start-line="1577" selection-end-line="1577" />
           </first_editor>
           <second_editor />
         </state>
