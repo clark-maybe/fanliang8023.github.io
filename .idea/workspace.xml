@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d16a7074-f6ab-4fd4-90e0-d50101a9323d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d16a7074-f6ab-4fd4-90e0-d50101a9323d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -20,7 +18,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="190">
-                <caret line="1580" column="17" lean-forward="true" selection-start-line="1580" selection-start-column="17" selection-end-line="1580" selection-end-column="17" />
+                <caret line="1571" column="1" lean-forward="true" selection-start-line="1571" selection-start-column="1" selection-end-line="1571" selection-end-column="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -52,6 +50,7 @@
       <find>git</find>
       <find>.sidebar-container .short-about img</find>
       <find>.next</find>
+      <find>post-title</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -92,13 +91,13 @@
         <option value="$PROJECT_DIR$/_layouts/keynote.html" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/less/hux-blog.less" />
         <option value="$PROJECT_DIR$/css/hux-blog.min.css" />
-        <option value="$PROJECT_DIR$/css/hux-blog.css" />
         <option value="$PROJECT_DIR$/_posts/2019-04-29-寒冬中的面试解决办法(一).md" />
         <option value="$PROJECT_DIR$/_posts/寒冬求职季之你必须要懂的原生JS(上).md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-29-寒冬求职季之你必须要懂的原生JS(上).md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-17-寒冬求职季之你必须要懂的JS原理（二）.md" />
+        <option value="$PROJECT_DIR$/css/hux-blog.css" />
+        <option value="$PROJECT_DIR$/less/hux-blog.less" />
       </list>
     </option>
   </component>
@@ -116,7 +115,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,6 +126,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,11 +192,12 @@
       <workItem from="1556537727421" duration="1439000" />
       <workItem from="1556587359059" duration="19000" />
       <workItem from="1557023096692" duration="48000" />
+      <workItem from="1557192997932" duration="143000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26554000" />
+    <option name="totallyTimeSpent" value="26697000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -567,7 +567,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="190">
-            <caret line="1580" column="17" lean-forward="true" selection-start-line="1580" selection-start-column="17" selection-end-line="1580" selection-end-column="17" />
+            <caret line="1571" column="1" lean-forward="true" selection-start-line="1571" selection-start-column="1" selection-end-line="1571" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>
