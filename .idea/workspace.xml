@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d16a7074-f6ab-4fd4-90e0-d50101a9323d" name="Default Changelist" comment="" />
+    <list default="true" id="d16a7074-f6ab-4fd4-90e0-d50101a9323d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-08-带你深入了解前端模块化发展体系.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-08-带你深入了解前端模块化发展体系.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,23 +16,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-04-17-寒冬求职季之你必须要懂的JS原理（二）.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-05-08-带你深入了解前端模块化发展体系.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="376">
-                <caret line="1577" lean-forward="true" selection-start-line="1577" selection-end-line="1577" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-04-29-寒冬求职季之你必须要懂的原生JS(上).md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="465">
-                <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <first_editor relative-caret-position="361">
+                <caret line="335" column="28" selection-start-line="335" selection-start-column="28" selection-end-line="335" selection-end-column="28" />
               </first_editor>
               <second_editor />
             </state>
@@ -98,6 +88,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-04-17-寒冬求职季之你必须要懂的JS原理（二）.md" />
         <option value="$PROJECT_DIR$/css/hux-blog.css" />
         <option value="$PROJECT_DIR$/less/hux-blog.less" />
+        <option value="$PROJECT_DIR$/_posts/2019-05-08-带你深入了解前端模块化发展体系.md" />
       </list>
     </option>
   </component>
@@ -122,6 +113,11 @@
             <path>
               <item name="fanliang8023.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="fanliang8023.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fanliang8023.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fanliang8023.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -194,11 +190,12 @@
       <workItem from="1557023096692" duration="48000" />
       <workItem from="1557192997932" duration="143000" />
       <workItem from="1557193460467" duration="715000" />
+      <workItem from="1557280469825" duration="213000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27412000" />
+    <option name="totallyTimeSpent" value="27625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -567,8 +564,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-04-17-寒冬求职季之你必须要懂的JS原理（二）.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="376">
-            <caret line="1577" lean-forward="true" selection-start-line="1577" selection-end-line="1577" />
+          <first_editor relative-caret-position="128">
+            <caret line="1569" column="1" lean-forward="true" selection-start-line="1569" selection-start-column="1" selection-end-line="1569" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>
@@ -579,6 +576,16 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="465">
             <caret line="15" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-08-带你深入了解前端模块化发展体系.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="361">
+            <caret line="335" column="28" selection-start-line="335" selection-start-column="28" selection-end-line="335" selection-end-column="28" />
           </first_editor>
           <second_editor />
         </state>
