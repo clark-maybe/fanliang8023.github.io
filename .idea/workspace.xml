@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d16a7074-f6ab-4fd4-90e0-d50101a9323d" name="Default Changelist" comment="" />
+    <list default="true" id="d16a7074-f6ab-4fd4-90e0-d50101a9323d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-22-关于JS闭包的理解（李姐万岁）.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-22-关于JS闭包的理解（李姐万岁）.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-05-22-关于JS闭包的理解（李姐万岁）.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="468">
-                <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+              <first_editor relative-caret-position="561">
+                <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -193,12 +195,12 @@
       <workItem from="1557193460467" duration="715000" />
       <workItem from="1557280469825" duration="213000" />
       <workItem from="1557483296132" duration="651000" />
-      <workItem from="1558494257739" duration="662000" />
+      <workItem from="1558494257739" duration="907000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28938000" />
+    <option name="totallyTimeSpent" value="29183000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -607,8 +609,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-05-22-关于JS闭包的理解（李姐万岁）.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="468">
-            <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <first_editor relative-caret-position="561">
+            <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
           </first_editor>
           <second_editor />
         </state>
