@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d16a7074-f6ab-4fd4-90e0-d50101a9323d" name="Default Changelist" comment="" />
+    <list default="true" id="d16a7074-f6ab-4fd4-90e0-d50101a9323d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-22-关于JS原型链的视频解析.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-22-关于JS原型链的视频解析.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,12 +15,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-05-22-关于JS闭包的理解（李姐万岁）.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="651">
-                <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+              <first_editor relative-caret-position="434">
+                <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-05-22-关于JS原型链的视频解析.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="406">
+                <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
               </first_editor>
               <second_editor />
             </state>
@@ -88,8 +102,8 @@
         <option value="$PROJECT_DIR$/less/hux-blog.less" />
         <option value="$PROJECT_DIR$/_posts/2019-05-08-带你深入了解前端模块化发展体系.md" />
         <option value="$PROJECT_DIR$/_posts/2019-05-010-你是一名【合格】前端工程师吗.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-05-22-关于JS原型链的视频解析.md" />
         <option value="$PROJECT_DIR$/_posts/2019-05-22-关于JS闭包的理解（李姐万岁）.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-05-22-关于JS原型链的视频解析.md" />
       </list>
     </option>
   </component>
@@ -107,6 +121,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,11 +129,15 @@
               <item name="fanliang8023.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="fanliang8023.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="fanliang8023.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fanliang8023.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,11 +212,12 @@
       <workItem from="1558494257739" duration="3810000" />
       <workItem from="1558507113920" duration="118000" />
       <workItem from="1558509766399" duration="418000" />
+      <workItem from="1558523300697" duration="524000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32622000" />
+    <option name="totallyTimeSpent" value="33146000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -592,21 +612,21 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Desktop/test.html" />
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-22-关于JS原型链的视频解析.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-22-关于JS闭包的理解（李姐万岁）.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="465">
-            <caret line="27" column="78" lean-forward="true" selection-start-line="27" selection-start-column="78" selection-end-line="27" selection-end-column="78" />
+          <first_editor relative-caret-position="434">
+            <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-22-关于JS闭包的理解（李姐万岁）.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-22-关于JS原型链的视频解析.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="651">
-            <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <first_editor relative-caret-position="406">
+            <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
           </first_editor>
           <second_editor />
         </state>
