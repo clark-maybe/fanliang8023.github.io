@@ -121,5 +121,13 @@ friends: [
 {
   title: "996.ICU",
   href: "https://github.com/996icu/996.ICU"
+},
+{
+  title: "今日热榜",
+  href: "https://tophub.today"
+},
+{
+  title: "dogedogeSearch",
+  href: "https://www.dogedoge.com/"
 }
 ]
