@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d16a7074-f6ab-4fd4-90e0-d50101a9323d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,14 +15,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2020-03-16-前端复习笔记-Js.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2020-03-14-前端复习笔记-Css.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="465">
-                <caret line="15" selection-start-line="15" selection-end-line="15" />
+                <caret line="138" column="42" selection-start-line="138" selection-start-column="42" selection-end-line="138" selection-end-column="42" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="2221" column="34" selection-start-line="2221" selection-start-column="34" selection-end-line="2221" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -105,6 +114,7 @@
         <option value="$PROJECT_DIR$/_posts/2020-03-14-前端复习笔记-Html.md" />
         <option value="$PROJECT_DIR$/_posts/2020-03-14-前端复习笔记-Css.md" />
         <option value="$PROJECT_DIR$/_posts/2020-03-16-前端复习笔记-Js.md" />
+        <option value="$PROJECT_DIR$/css/bootstrap.css" />
       </list>
     </option>
   </component>
@@ -224,16 +234,15 @@
       <workItem from="1577445961374" duration="87000" />
       <workItem from="1584065096936" duration="6074000" />
       <workItem from="1584099298609" duration="859000" />
-      <workItem from="1584323051874" duration="240000" />
+      <workItem from="1584323051874" duration="756000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48289000" />
+    <option name="totallyTimeSpent" value="48805000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.15015806" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -281,7 +290,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa4620.29104/html5-canvas-3d-planet/index.html" />
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
@@ -663,23 +671,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2020-03-14-前端复习笔记-Css.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2020-03-16-前端复习笔记-Js.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="373">
-            <caret line="193" lean-forward="true" selection-start-line="193" selection-end-line="193" />
+          <first_editor relative-caret-position="1880">
+            <caret line="573" column="47" lean-forward="true" selection-start-line="573" selection-start-column="47" selection-end-line="573" selection-end-column="47" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2020-03-16-前端复习笔记-Js.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2020-03-14-前端复习笔记-Css.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="465">
-            <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <caret line="138" column="42" selection-start-line="138" selection-start-column="42" selection-end-line="138" selection-end-column="42" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="2221" column="34" selection-start-line="2221" selection-start-column="34" selection-end-line="2221" selection-end-column="34" />
         </state>
       </provider>
     </entry>
