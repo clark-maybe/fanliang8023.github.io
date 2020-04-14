@@ -17,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2020-04-13-JS中关于Number的格式化与类型转换杂谈-算法.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="682">
-                <caret line="124" column="53" selection-start-line="124" selection-start-column="53" selection-end-line="124" selection-end-column="53" />
+              <first_editor relative-caret-position="310">
+                <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
               </first_editor>
               <second_editor />
             </state>
@@ -247,15 +247,15 @@
       <workItem from="1584600955348" duration="761000" />
       <workItem from="1584668373642" duration="283000" />
       <workItem from="1586746306636" duration="6438000" />
-      <workItem from="1586829122786" duration="4604000" />
+      <workItem from="1586829122786" duration="4861000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66827000" />
+    <option name="totallyTimeSpent" value="67084000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.15015806" />
@@ -708,8 +708,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2020-04-13-JS中关于Number的格式化与类型转换杂谈-算法.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="682">
-            <caret line="124" column="53" selection-start-line="124" selection-start-column="53" selection-end-line="124" selection-end-column="53" />
+          <first_editor relative-caret-position="310">
+            <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
           </first_editor>
           <second_editor />
         </state>
