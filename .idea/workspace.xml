@@ -13,23 +13,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2020-04-13-JS中关于Number的格式化与类型转换杂谈-算法.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="310">
-                <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
+              <first_editor relative-caret-position="1302">
+                <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/Desktop/test1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="837">
-              <caret line="45" column="68" lean-forward="true" selection-start-line="45" selection-start-column="68" selection-end-line="45" selection-end-column="68" />
+            <state relative-caret-position="35">
+              <caret line="27" column="54" lean-forward="true" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -120,7 +120,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1859" />
     <option name="y" value="48" />
     <option name="width" value="1936" />
@@ -247,15 +247,15 @@
       <workItem from="1584600955348" duration="761000" />
       <workItem from="1584668373642" duration="283000" />
       <workItem from="1586746306636" duration="6438000" />
-      <workItem from="1586829122786" duration="4861000" />
+      <workItem from="1586829122786" duration="8283000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67084000" />
+    <option name="totallyTimeSpent" value="70506000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.15015806" />
@@ -698,20 +698,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/test1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
-          <caret line="45" column="68" lean-forward="true" selection-start-line="45" selection-start-column="68" selection-end-line="45" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2020-04-13-JS中关于Number的格式化与类型转换杂谈-算法.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="310">
-            <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
+          <first_editor relative-caret-position="1302">
+            <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/test1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="27" column="54" lean-forward="true" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
         </state>
       </provider>
     </entry>
