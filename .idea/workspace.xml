@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d16a7074-f6ab-4fd4-90e0-d50101a9323d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-19-前端复习笔记-算法.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-19-前端复习笔记-算法.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,13 +16,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2020-03-19-前端复习笔记-算法.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2020-04-13-JS中关于Number的格式化与类型转换杂谈-算法.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="1613">
-                <caret line="1393" column="65" lean-forward="true" selection-start-line="1393" selection-start-column="65" selection-end-line="1393" selection-end-column="65" />
+              <first_editor relative-caret-position="592">
+                <caret line="124" column="53" selection-start-line="124" selection-start-column="53" selection-end-line="124" selection-end-column="53" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/test1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="837">
+              <caret line="45" column="68" lean-forward="true" selection-start-line="45" selection-start-column="68" selection-end-line="45" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -60,8 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2019-03-19-年后工作一段时间的收获与感悟.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-29-面试题复习大纲.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-22-关于React生命周期的那些事儿.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-19-flex通俗解析.md" />
@@ -111,10 +117,12 @@
         <option value="$PROJECT_DIR$/_posts/2020-03-14-前端复习笔记-Css.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/_posts/2020-03-19-前端复习笔记-算法.md" />
+        <option value="$USER_HOME$/Desktop/test1.html" />
+        <option value="$PROJECT_DIR$/_posts/2020-04-13-JS中关于Number的格式化与类型转换杂谈-算法.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1859" />
     <option name="y" value="48" />
     <option name="width" value="1936" />
@@ -128,6 +136,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,7 +153,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,11 +248,13 @@
       <workItem from="1584583044365" duration="67000" />
       <workItem from="1584600955348" duration="761000" />
       <workItem from="1584668373642" duration="283000" />
+      <workItem from="1586746306636" duration="6438000" />
+      <workItem from="1586829122786" duration="4235000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55785000" />
+    <option name="totallyTimeSpent" value="66458000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -296,14 +306,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_layouts/keynote.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-936" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/404-bg.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -691,8 +693,25 @@
     <entry file="file://$PROJECT_DIR$/_posts/2020-03-19-前端复习笔记-算法.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="1613">
-            <caret line="1393" column="65" lean-forward="true" selection-start-line="1393" selection-start-column="65" selection-end-line="1393" selection-end-column="65" />
+          <first_editor relative-caret-position="251">
+            <caret line="1375" column="1" lean-forward="true" selection-start-line="1375" selection-start-column="1" selection-end-line="1375" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/test1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="45" column="68" lean-forward="true" selection-start-line="45" selection-start-column="68" selection-end-line="45" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2020-04-13-JS中关于Number的格式化与类型转换杂谈-算法.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="592">
+            <caret line="124" column="53" selection-start-line="124" selection-start-column="53" selection-end-line="124" selection-end-column="53" />
           </first_editor>
           <second_editor />
         </state>
