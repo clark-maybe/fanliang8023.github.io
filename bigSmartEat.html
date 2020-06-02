@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+<div>
+    大聪明今天吃什么: <span id="target"></span>
+</div>
+<div>
+    <button id="btn">选择今天的饭!</button>
+</div>
+<script>
+    let target = document.getElementById('target');
+    let btn = document.getElementById('btn');
+    let tempArr = [
+        '鸡公煲', '米线', '牛肉粉', '堂饭', '麻辣香锅', '炸鸡', '麻辣烫', '蟹肉煲', '炒面', '麻辣拌', '饺子', '米粉',
+        '鸡公煲', '米线', '牛肉粉', '堂饭', '麻辣香锅', '炸鸡', '麻辣烫', '蟹肉煲', '炒面', '麻辣拌', '饺子', '米粉',
+        '鸡公煲', '米线', '牛肉粉', '堂饭', '麻辣香锅', '炸鸡', '麻辣烫', '蟹肉煲', '炒面', '麻辣拌', '饺子', '米粉',
+        '鸡公煲', '米线', '牛肉粉', '堂饭', '麻辣香锅', '炸鸡', '麻辣烫', '蟹肉煲', '炒面', '麻辣拌', '饺子', '米粉',
+        '鸡公煲', '米线', '牛肉粉', '堂饭', '麻辣香锅', '炸鸡', '麻辣烫', '蟹肉煲', '炒面', '麻辣拌', '饺子', '米粉',
+        '鸡公煲', '米线', '牛肉粉', '堂饭', '麻辣香锅', '炸鸡', '麻辣烫', '蟹肉煲', '炒面', '麻辣拌', '饺子', '米粉',
+        '鸡公煲', '米线', '牛肉粉', '堂饭', '麻辣香锅', '炸鸡', '麻辣烫', '蟹肉煲', '炒面', '麻辣拌', '饺子', '米粉',
+        '鸡公煲', '米线', '牛肉粉', '堂饭', '麻辣香锅', '炸鸡', '麻辣烫', '蟹肉煲', '炒面', '麻辣拌', '饺子', '米粉'
+    ];
+    btn.onclick = function () {
+        let num = ~~(Math.random() * 100);
+        target.innerText = tempArr[num] || '问憨憨!';
+    }
+</script>
+</body>
+</html>
