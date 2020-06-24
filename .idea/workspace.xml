@@ -31,20 +31,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/less/hux-blog.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="490" column="22" lean-forward="true" selection-start-line="490" selection-start-column="22" selection-end-line="490" selection-end-column="22" />
+            <state relative-caret-position="497">
+              <caret line="496" column="30" lean-forward="true" selection-start-line="490" selection-start-column="4" selection-end-line="496" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/hux-blog.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="606" column="1" selection-start-line="606" selection-start-column="1" selection-end-line="606" selection-end-column="1" />
+            <state relative-caret-position="279">
+              <caret line="802" column="1" lean-forward="true" selection-start-line="802" selection-start-column="1" selection-end-line="802" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -61,7 +70,6 @@
       <find>git</find>
       <find>.sidebar-container .short-about img</find>
       <find>.next</find>
-      <find>post-title</find>
       <find>.post-content-preview</find>
       <find>4-sgml--html-xml-和-xhtml-的区别</find>
       <find>45</find>
@@ -72,6 +80,7 @@
       <find>###</find>
       <find>min-width</find>
       <find>post-preview</find>
+      <find>post-title</find>
       <find>.post-preview</find>
     </findStrings>
     <replaceStrings>
@@ -261,12 +270,12 @@
       <workItem from="1584668373642" duration="283000" />
       <workItem from="1586746306636" duration="6438000" />
       <workItem from="1586829122786" duration="10520000" />
-      <workItem from="1592968840531" duration="1641000" />
+      <workItem from="1592968840531" duration="1884000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74384000" />
+    <option name="totallyTimeSpent" value="74627000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -608,13 +617,6 @@
     <entry file="file://$PROJECT_DIR$/sss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-275">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/syntax.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1670">
@@ -676,17 +678,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/hux-blog.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="606" column="1" selection-start-line="606" selection-start-column="1" selection-end-line="606" selection-end-column="1" />
+        <state relative-caret-position="248">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/less/hux-blog.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="490" column="22" lean-forward="true" selection-start-line="490" selection-start-column="22" selection-end-line="490" selection-end-column="22" />
+        <state relative-caret-position="497">
+          <caret line="496" column="30" lean-forward="true" selection-start-line="490" selection-start-column="4" selection-end-line="496" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/hux-blog.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="802" column="1" lean-forward="true" selection-start-line="802" selection-start-column="1" selection-end-line="802" selection-end-column="1" />
         </state>
       </provider>
     </entry>

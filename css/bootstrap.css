@@ -1078,7 +1078,7 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
-  background-color: #fff;
+  background-color: #f3f3f3;
 }
 input,
 button,
@@ -6564,3 +6564,13 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+.post-preview{
+  box-shadow: 3px 3px 3px 0 lightgrey;
+  border-radius: 12px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #f9f9f9;
+}
