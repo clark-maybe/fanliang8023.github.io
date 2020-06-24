@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d16a7074-f6ab-4fd4-90e0-d50101a9323d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/hux-blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/hux-blog.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/less/hux-blog.less" beforeDir="false" afterPath="$PROJECT_DIR$/less/hux-blog.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sss" beforeDir="false" />
-    </list>
+    <list default="true" id="d16a7074-f6ab-4fd4-90e0-d50101a9323d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -51,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/css/hux-blog.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="329">
-              <caret line="608" column="2" selection-start-line="608" selection-start-column="2" selection-end-line="608" selection-end-column="2" />
+              <caret line="611" column="22" lean-forward="true" selection-start-line="611" selection-start-column="22" selection-end-line="611" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -77,6 +70,8 @@
       <find>.col-lg-offset-2</find>
       <find>26</find>
       <find>###</find>
+      <find>min-width</find>
+      <find>post-preview</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -163,11 +158,6 @@
             <path>
               <item name="fanliang8023.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="fanliang8023.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fanliang8023.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fanliang8023.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="less" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -270,12 +260,12 @@
       <workItem from="1584668373642" duration="283000" />
       <workItem from="1586746306636" duration="6438000" />
       <workItem from="1586829122786" duration="10520000" />
-      <workItem from="1592968840531" duration="480000" />
+      <workItem from="1592968840531" duration="984000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73084000" />
+    <option name="totallyTimeSpent" value="73852000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -695,7 +685,7 @@
     <entry file="file://$PROJECT_DIR$/css/hux-blog.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="329">
-          <caret line="608" column="2" selection-start-line="608" selection-start-column="2" selection-end-line="608" selection-end-column="2" />
+          <caret line="611" column="22" lean-forward="true" selection-start-line="611" selection-start-column="22" selection-end-line="611" selection-end-column="22" />
         </state>
       </provider>
     </entry>
