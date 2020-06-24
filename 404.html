@@ -1,36 +1,58 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+	<meta charset="UTF-8">
+	<meta name="viewport"
+		  content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>errorPage - 404</title>
+	<style>
+		* {
+			margin: 0;
+			padding: 0;
+		}
+		body{
+			background: #e6e6e6;
+		}
+		h1{
+			line-height: 24rem;
+			-webkit-animation:shake 1s .2s ease both;
+			-moz-animation:shake 1s .2s ease both;
+		}
+		@-webkit-keyframes shake{
+			0%,100%{-webkit-transform:translateX(0);}
+			10%,30%,50%,70%, 90%{-webkit-transform:translateX(-10px);}
+			20%,40%,60%,80%{-webkit-transform:translateX(10px);}
+		}
+		@-moz-keyframes shake{
+			0%,100%{-moz-transform:translateX(0);}
+			10%,30%,50%,70%, 90%{-moz-transform:translateX(-10px);}
+			20%,40%,60%,80%{-moz-transform:translateX(10px);}
+		}
+		h4{
+			line-height: 20rem;
+			-webkit-animation:fadeIn 1s 1s ease both;
+			-moz-animation:fadeIn 1s 1s ease both;
+		}
+
+		@-moz-keyframes fadeIn{
+			0%{opacity:0}
+			100%{opacity:1}
+		}
+		@-webkit-keyframes fadeIn{
+			0%{opacity:0}
+			100%{opacity:1}
+		}
+		.container{
+			text-align: center;
+			height: 24rem;
+		}
+	</style>
 </head>
 <body>
-<div>
-    大聪明今天吃什么: <span id="target"></span>
+<div class="container">
+	<h1>404</h1>
+	<h4>sorry, there are nothing.</h4>
 </div>
-<div>
-    <button id="btn">选择今天的饭!</button>
-</div>
-<script>
-    let target = document.getElementById('target');
-    let btn = document.getElementById('btn');
-    let tempArr = [
-        '鸡公煲', '米线', '牛肉粉', '堂饭', '麻辣香锅', '炸鸡', '麻辣烫', '蟹肉煲', '炒面', '麻辣拌', '饺子', '米粉',
-        '鸡公煲', '米线', '牛肉粉', '堂饭', '麻辣香锅', '炸鸡', '麻辣烫', '蟹肉煲', '炒面', '麻辣拌', '饺子', '米粉',
-        '鸡公煲', '米线', '牛肉粉', '堂饭', '麻辣香锅', '炸鸡', '麻辣烫', '蟹肉煲', '炒面', '麻辣拌', '饺子', '米粉',
-        '鸡公煲', '米线', '牛肉粉', '堂饭', '麻辣香锅', '炸鸡', '麻辣烫', '蟹肉煲', '炒面', '麻辣拌', '饺子', '米粉',
-        '鸡公煲', '米线', '牛肉粉', '堂饭', '麻辣香锅', '炸鸡', '麻辣烫', '蟹肉煲', '炒面', '麻辣拌', '饺子', '米粉',
-        '鸡公煲', '米线', '牛肉粉', '堂饭', '麻辣香锅', '炸鸡', '麻辣烫', '蟹肉煲', '炒面', '麻辣拌', '饺子', '米粉',
-        '鸡公煲', '米线', '牛肉粉', '堂饭', '麻辣香锅', '炸鸡', '麻辣烫', '蟹肉煲', '炒面', '麻辣拌', '饺子', '米粉',
-        '鸡公煲', '米线', '牛肉粉', '堂饭', '麻辣香锅', '炸鸡', '麻辣烫', '蟹肉煲', '炒面', '麻辣拌', '饺子', '米粉'
-    ];
-    btn.onclick = function () {
-        let num = ~~(Math.random() * 100);
-        target.innerText = tempArr[num] || '问憨憨!';
-    }
-</script>
 </body>
 </html>
