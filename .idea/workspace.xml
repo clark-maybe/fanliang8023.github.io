@@ -31,20 +31,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/less/hux-blog.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            <state relative-caret-position="311">
+              <caret line="490" column="22" lean-forward="true" selection-start-line="490" selection-start-column="22" selection-end-line="490" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/hux-blog.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="611" column="22" lean-forward="true" selection-start-line="611" selection-start-column="22" selection-end-line="611" selection-end-column="22" />
+            <state relative-caret-position="174">
+              <caret line="606" column="1" selection-start-line="606" selection-start-column="1" selection-end-line="606" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -72,6 +72,7 @@
       <find>###</find>
       <find>min-width</find>
       <find>post-preview</find>
+      <find>.post-preview</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -131,8 +132,8 @@
         <option value="$PROJECT_DIR$/_posts/2020-03-19-前端复习笔记-算法.md" />
         <option value="$USER_HOME$/Desktop/test1.html" />
         <option value="$PROJECT_DIR$/_posts/2020-04-13-JS中关于Number的格式化与类型转换杂谈-算法.md" />
-        <option value="$PROJECT_DIR$/less/hux-blog.less" />
         <option value="$PROJECT_DIR$/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/less/hux-blog.less" />
         <option value="$PROJECT_DIR$/css/hux-blog.css" />
       </list>
     </option>
@@ -260,12 +261,12 @@
       <workItem from="1584668373642" duration="283000" />
       <workItem from="1586746306636" duration="6438000" />
       <workItem from="1586829122786" duration="10520000" />
-      <workItem from="1592968840531" duration="984000" />
+      <workItem from="1592968840531" duration="1641000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73852000" />
+    <option name="totallyTimeSpent" value="74384000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -675,17 +676,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/less/hux-blog.less">
+    <entry file="file://$PROJECT_DIR$/css/hux-blog.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        <state relative-caret-position="174">
+          <caret line="606" column="1" selection-start-line="606" selection-start-column="1" selection-end-line="606" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/hux-blog.css">
+    <entry file="file://$PROJECT_DIR$/less/hux-blog.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="611" column="22" lean-forward="true" selection-start-line="611" selection-start-column="22" selection-end-line="611" selection-end-column="22" />
+        <state relative-caret-position="311">
+          <caret line="490" column="22" lean-forward="true" selection-start-line="490" selection-start-column="22" selection-end-line="490" selection-end-column="22" />
         </state>
       </provider>
     </entry>
