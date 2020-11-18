@@ -40,12 +40,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1859" />
-    <option name="y" value="48" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
-  </component>
   <component name="ProjectId" id="1jv5NvPNFyRVlcXePrDhzDG58ux" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -57,7 +51,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -150,7 +144,8 @@
       <workItem from="1592968840531" duration="3389000" />
       <workItem from="1596246729453" duration="1435000" />
       <workItem from="1604671693620" duration="436000" />
-      <workItem from="1605368407433" duration="374000" />
+      <workItem from="1605368407433" duration="1304000" />
+      <workItem from="1605667563531" duration="598000" />
     </task>
     <servers />
   </component>
