@@ -129,5 +129,9 @@ friends: [
 {
   title: "dogedogeSearch",
   href: "https://www.dogedoge.com/"
-}
+},
+  {
+    title: "我的知识沉淀",
+    href: "https://www.notion.so/8cbe92c5897544bca9795fc180da860c"
+  }
 ]
